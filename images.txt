@@ -4,5 +4,5 @@ goharbor/prepare:v2.11.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 openjdk:8u302-jdk 
---platform linux/arm64/v8
+--platform linux/arm64/v8 xiaoyaliu/alist
 
